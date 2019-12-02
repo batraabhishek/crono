@@ -1,10 +1,13 @@
 # Crono: Smart Notifications
 #AndroidDevChallenge
 
+![](https://github.com/batraabhishek/crono/raw/master/connect.jpg)
+
 ## Overview
 An average user receives 150 notifications in a day. These notifications contain promotions, spam which a user might not even look at. Crono is designed to cut through the clutter and provide a notifications experience that surfaces only useful information in the notification drawer. With Crono, we want to make phone notifications smart. 
 
 ## Notification Classifier
+
 We will build a **TensorFlow Lite** model, by manually training notifications (tens of thousands of notifications). Tensorflow model will be integrated into Crono Android app. 
 
 - The model will identify similar types of notifications and group them under categories.
