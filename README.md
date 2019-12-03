@@ -34,5 +34,11 @@ Notification classifier will be a model that will predict the type of notificati
 3. **March - April:** App logic + UI + UX work
 4. **May:** App launch
 
+## Required Google Services 
+1. Firebase
+2. TensorFlow Lite
+3. Google Cloud Functions
+
+
 ## Cover letter
 https://github.com/batraabhishek/crono/blob/master/Android%20Dev%20Challenge%20-%20Cover%20Letter.pdf
